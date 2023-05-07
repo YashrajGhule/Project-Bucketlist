@@ -7,3 +7,4 @@ My List begins from here:
 3. A MusicDatabase application which will contain all songs that I like.
 4. AI chatbot trained on chat b/w me and my friend.
 5. A project dedicated to my best friend.
+6. A full featured Minecraft Server.
