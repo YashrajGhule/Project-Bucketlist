@@ -8,3 +8,5 @@ My List begins from here:
 4. AI chatbot trained on chat b/w me and my friend.
 5. A project dedicated to my best friend.
 6. A full featured Minecraft Server.
+7. File security application.
+8. My personal developer blog.
